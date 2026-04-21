@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Lab6 Firebase Auth",
+    "slug": "lab6-firebase-auth",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#4285F4"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lab6.firebaseauth"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#4285F4"
+      },
+      "package": "com.lab6.firebaseauth"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "scheme": "lab6-firebase-auth",
+    "plugins": [
+      "expo-router",
+      "expo-asset",
+      "expo-font"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+export const products = [
+  {
+    id: '1',
+    name: 'iPhone 15 Pro',
+    price: 45999,
+    image: 'https://picsum.photos/seed/iphone/400/400',
+    description: 'Найновіший смартфон Apple з чипом A17 Pro, титановим корпусом та покращеною камерою. Підтримує USB-C та має неймовірну продуктивність для ігор та професійних задач.',
+  },
+  {
+    id: '2',
+    name: 'MacBook Air M3',
+    price: 52999,
+    image: 'https://picsum.photos/seed/macbook/400/400',
+    description: 'Надтонкий та легкий ноутбук з чипом Apple M3. Батарея працює до 18 годин. Ідеальний для роботи та навчання.',
+  },
+  {
+    id: '3',
+    name: 'AirPods Pro 2',
+    price: 9999,
+    image: 'https://picsum.photos/seed/airpods/400/400',
+    description: 'Бездротові навушники з активним шумопоглинанням, адаптивним звуком та покращеним просторовим аудіо. USB-C зарядка.',
+  },
+  {
+    id: '4',
+    name: 'iPad Pro 12.9"',
+    price: 48999,
+    image: 'https://picsum.photos/seed/ipad/400/400',
+    description: 'Професійний планшет з чипом M2, дисплеєм Liquid Retina XDR та підтримкою Apple Pencil 2. Потужніший за більшість ноутбуків.',
+  },
+  {
+    id: '5',
+    name: 'Apple Watch Ultra 2',
+    price: 34999,
+    image: 'https://picsum.photos/seed/watch/400/400',
+    description: 'Найміцніший та найфункціональніший годинник Apple. Титановий корпус, GPS двох частот, глибиномір та сирена для екстрених ситуацій.',
+  },
+  {
+    id: '6',
+    name: 'Samsung Galaxy S24 Ultra',
+    price: 52999,
+    image: 'https://picsum.photos/seed/samsung/400/400',
+    description: 'Флагманський смартфон Samsung з AI функціями, S Pen та камерою 200 МП. Титанова рамка та яскравий AMOLED дисплей.',
+  },
+  {
+    id: '7',
+    name: 'Sony WH-1000XM5',
+    price: 14999,
+    image: 'https://picsum.photos/seed/sony/400/400',
+    description: 'Преміальні навушники з найкращим у своєму класі шумопоглинанням. 30 годин автономної роботи та кришталево чистий звук.',
+  },
+  {
+    id: '8',
+    name: 'Nintendo Switch OLED',
+    price: 15999,
+    image: 'https://picsum.photos/seed/switch/400/400',
+    description: 'Гібридна ігрова консоль з 7-дюймовим OLED дисплеєм. Грайте вдома на телевізорі або в дорозі.',
+  },
+];
